@@ -1,6 +1,6 @@
-# ATCAutomation 
+# Amazon Automation 
 
-# ATC Automation Coding Challange
+# Automation Coding Challange
 
 My automation testing framework using Java, Selenium, JUnit, and BDD Cucumber and Etc is designed to support automated test cases for web applications. The framework consists of the following components example:
 
