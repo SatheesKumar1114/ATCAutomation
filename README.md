@@ -1,2 +1,2 @@
-# ATC Automation Coding Challenge
+# Amazon Coding Challenge
 ## Kindly switch to the master branch ##
